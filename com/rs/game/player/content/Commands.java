@@ -1,4 +1,5 @@
-package com.rs.game.player.content;
+package com.rs.game.player.content;    
+//slay blacks
 
 import java.io.BufferedWriter;
 import java.io.File;
